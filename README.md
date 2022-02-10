@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+<!-- 
 Also , I like Competitive Programming , here are my stats on Codechef and Codeforces👨‍💻 📈.  
  
- <a href="https://www.codechef.com/users/ashutosh3119"> ![Badge](https://cp-logo.vercel.app/codechef/harsh_johar)</a>  <a href="https://codeforces.com/profile/harsh_johar"> ![Badge](https://cp-logo.vercel.app/codeforces/harshjohar)  </a>
+ <a href="https://www.codechef.com/users/harsh_johar"> ![Badge](https://cp-logo.vercel.app/codechef/harsh_johar)</a>  <a href="https://codeforces.com/profile/harsh_johar"> ![Badge](https://cp-logo.vercel.app/codeforces/harshjohar)  </a> -->
 
 
 <h1> Stats 📊 </h1>
