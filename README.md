@@ -12,7 +12,7 @@ Also , I like Competitive Programming , here are my stats on Codechef and Codefo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshjohar&theme=tokyonight&langs_count=5&hide=html&layout=compact)
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=harshjohar&theme=react-dark" alt="harshjohar" />
+<!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=harshjohar&theme=react-dark" alt="harshjohar" /> -->
 
 <p align="center" style="padding: 10px;"> <img src="https://visitor-badge.laobi.icu/badge?page_id=harshjohar.harshjohar"></p>
 
