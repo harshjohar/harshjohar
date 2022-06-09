@@ -1,4 +1,4 @@
-### Hi there 👋
+### Never settle
 <!-- 
 Also , I like Competitive Programming , here are my stats on Codechef and Codeforces👨‍💻 📈.  
  
