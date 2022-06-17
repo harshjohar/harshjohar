@@ -56,8 +56,7 @@
 </p>
 <h3> Databases and other tools </h3>
 <p align="center">
-       <img src="https://img.shields.io/badge/MongoDB-D9EAD3
-?style=for-the-badge&logo=mongodb&logoColor=whitee">
+       <img src="https://img.shields.io/badge/MongoDB-D9EAD3?style=for-the-badge&logo=mongodb&logoColor=whitee">
        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 
