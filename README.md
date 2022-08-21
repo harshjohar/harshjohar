@@ -1,6 +1,7 @@
 <div>
     <h3 align="center" font-size="24"> Hi there! I'm Harsh Johar </h3>
     <p align="center">A passionate Web/App developer from India</p>
+    <p align="center">Upcoming Software development intern @ intuit</p>
 </div>
 
 ---
