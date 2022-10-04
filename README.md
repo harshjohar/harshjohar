@@ -32,7 +32,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harshjohar&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="harshjohar" /> </p>
 
-[![wakatime](https://wakatime.com/badge/user/7453b1a6-b1f3-42a7-9f52-27c157de24dc.svg)](https://wakatime.com/@7453b1a6-b1f3-42a7-9f52-27c157de24dc)
+<a href="https://wakatime.com/@7453b1a6-b1f3-42a7-9f52-27c157de24dc">
+<p align="center">
+<img src="https://wakatime.com/badge/user/7453b1a6-b1f3-42a7-9f52-27c157de24dc.svg">
+</p>
+</div>
 
 <!-- Skills -->
 <h2> Skills 🛠️ </h2>
