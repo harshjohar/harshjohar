@@ -86,3 +86,5 @@
 <h2 align="left">Achievements 🏆</h2>
 <p align = "center"> <img src="https://github-profile-trophy.vercel.app/?username=harshjohar&theme=darkhub" alt="harshjohar" /> </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
