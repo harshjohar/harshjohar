@@ -37,7 +37,7 @@
 <p align="center">
 <img src="https://wakatime.com/badge/user/7453b1a6-b1f3-42a7-9f52-27c157de24dc.svg">
 </p>
-</div>
+</a>
 
 <!-- Skills -->
 <h2> Skills 🛠️ </h2>
@@ -78,7 +78,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=harshjohar&show_icons=true&theme=github_dark&include_all_commits=true" width=57.5% alt="Github Stats" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshjohar&theme=github_dark&langs_count=6&hide=jupyter%20notebook,html&layout=compact" width=41.5% alt="Github Stats" align="center">
 </div>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=harshjohar&theme=react-dark" alt="harshjohar" />
+<!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=harshjohar&theme=react-dark" alt="harshjohar" /> -->
+
+<hr>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=harshjohar&layout=compact&theme=dracula" alt="harshjohar">
 
 <hr>
 
