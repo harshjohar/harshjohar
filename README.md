@@ -8,7 +8,7 @@
 
 <p align="justify"> I am an engineering undergraduate at PEC, currently persuing Computer Science. I have keen interest in website and cross platform app development. I am up for learning any new technology. </p>
 <p>Always ready to build new stuff.</p>
-<p>Active in ACM CSS</p>
+<p>Active in PEC ACM CSS</p>
 <p>Always up for collaboration in projects.</p>
 
 <!-- Connect -->
