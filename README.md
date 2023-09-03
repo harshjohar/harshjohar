@@ -1,13 +1,13 @@
 <div>
     <h3 align="center" font-size="24"> Hi there! I'm Harsh Johar </h3>
-    <p align="center">A passionate Web/App developer from India</p>
-    <p align="center">Upcoming Software development intern @ intuit</p>
+    <p align="center">Upcoming Software engineer @ Intuit</p>
+    <p align="center">Chairperson @ PECACM</p>
 </div>
 
 ---
 
-<p align="justify"> I am an engineering undergraduate at PEC, currently persuing Computer Science. I have keen interest in website and cross platform app development. I am up for learning any new technology. </p>
-<p>Always ready to build new stuff.</p>
+<p align="justify"> I am an engineering undergraduate at PEC, currently persuing Computer Science. I have keen interest in software development. I am up for learning any new technology. </p>
+<p>Full Stack developer.</p>
 <p>Active in PEC ACM CSS</p>
 <p>Always up for collaboration in projects.</p>
 
@@ -44,9 +44,8 @@
 
 <h3> Languages </h3>    
 <p align="center">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">    
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+        <img src="https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white">   
         <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
         <img src="https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=00599f"> 
         <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -56,6 +55,7 @@
 <h3> Libraries and frameworks </h3>
 <p align="center">
        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+       <img src="https://img.shields.io/badge/SpringBoot-8BC34A?style=for-the-badge&logo=spring&logoColor=white">
        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
        <img src="https://img.shields.io/badge/Flutter-0785fa?style=for-the-badge&logo=flutter&logoColor=white">
@@ -67,9 +67,8 @@
 <p align="center">
        <img src="https://img.shields.io/badge/Docker-005C84?style=for-the-badge&logo=docker&logoColor=white">
        <img src="https://img.shields.io/badge/MongoDB-D9EAD3?style=for-the-badge&logo=mongodb&logoColor=whitee">
-       <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-       <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
+       <img src="https://img.shields.io/badge/PostgreSQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white">
+       <img src="https://img.shields.io/badge/Firebase-0078D4?style=for-the-badge&logo=firebase&logoColor=FFD43B">
 </p>
 
 <!-- Statistics -->
