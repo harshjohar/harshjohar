@@ -1,10 +1,3 @@
-<div>
-    <h3 align="center" font-size="24"> Hi there! I'm Harsh Johar </h3>
-    <p align="center">Software engineer @ Intuit</p>
-</div>
-
----
-
 <p align="justify">Wannabe Developer :)</p>
 <p>Up for collaboration in projects.</p>
 
