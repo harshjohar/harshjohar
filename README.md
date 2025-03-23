@@ -1,15 +1,12 @@
 <div>
     <h3 align="center" font-size="24"> Hi there! I'm Harsh Johar </h3>
-    <p align="center">Upcoming Software engineer @ Intuit</p>
-    <p align="center">Chairperson @ PECACM</p>
+    <p align="center">Software engineer @ Intuit</p>
 </div>
 
 ---
 
-<p align="justify"> I am an engineering undergraduate at PEC, currently persuing Computer Science. I have keen interest in software development. I am up for learning any new technology. </p>
-<p>Full Stack developer.</p>
-<p>Active in PEC ACM CSS</p>
-<p>Always up for collaboration in projects.</p>
+<p align="justify">Wannabe Developer :)</p>
+<p>Up for collaboration in projects.</p>
 
 <!-- Connect -->
 <h2 align="left">Contact 🔗</h2>
